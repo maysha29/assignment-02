@@ -260,6 +260,22 @@ padding: 5px;
     width: 640px;
     height: 630px;
    }
+   .story-card-2{
+    width: 290px;
+    height: 301.61px;
+   }
+   .story-card-3{
+    width: 290px;
+    height: 301.61px;
+   }
+   .story-card-4{
+    width: 290px;
+    height: 301.61px;
+   }
+   .story-card-5{
+    width: 290px;
+    height: 301.61px;
+   }
    .story-image{
     display: flex;
     position: relative;
@@ -269,4 +285,89 @@ padding: 5px;
     width: 640px;
     height: 337px;
 
+   }
+   .story-image .story-btn-1{
+    position: absolute;
+    bottom: -22px;
+    left: 38px;
+    padding: 14px 18px;
+    color: rgb(255, 255, 255);
+    font-size: 0.8rem;
+    border-radius: 47px;
+    background: rgb(60, 216, 232);
+    border: none;
+   }
+   .story-image .story-btn-2{
+    position: absolute;
+    bottom: -22px;
+    left: 38px;
+    padding: 14px 18px;
+    color: rgb(255, 255, 255);
+    font-size: 0.8rem;
+    border-radius: 47px;
+    background: rgb(149, 178, 38);
+    border: none;
+   }
+   .story-image .story-btn-3{
+    position: absolute;
+    bottom: -22px;
+    left: 38px;
+    padding: 14px 18px;
+    color: rgb(255, 255, 255);
+    font-size: 0.8rem;
+    border-radius: 47px;
+    background: rgb(93, 88, 240);
+    border: none;
+   }
+   .story-image .story-btn-4{
+    position: absolute;
+    bottom: -22px;
+    left: 38px;
+    padding: 14px 18px;
+    color: rgb(255, 255, 255);
+    font-size: 0.8rem;
+    border-radius: 47px;
+    background: rgb(149, 178, 38);
+    border: none;
+   }
+   .story-image .story-btn-5{
+    position: absolute;
+    bottom: -22px;
+    left: 38px;
+    padding: 14px 18px;
+    color: rgb(255, 255, 255);
+    font-size: 0.8rem;
+    border-radius: 47px;
+    background: rgb(149, 178, 38);
+    border: none;
+   }
+   .stories{
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+   }
+   .stories img{
+    width: 100%;
+    border-radius: 16px 16px 0px 0px;
+   }
+   .stories-content{
+    padding: 40px;
+   }
+   .stories-content h3{
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    margin-bottom: 30px;
+    margin-top: 5px;
+   }
+   .stories-content .storyHeading{
+    color: rgb(0, 0, 0);
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 20px;
+   }
+   .stories-content p{
+    font-size: 1rem;
+    color: rgb(102, 102, 102);
+    font-weight: 500;
+    line-height: 28.76px;
    }
