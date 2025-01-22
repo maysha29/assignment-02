@@ -236,6 +236,13 @@ padding: 5px;
     height: 60px;
     border-radius: 30px;
     background: rgb(254, 163, 1);
+    transition: background-color 0.2s ease;
+   }
+   .left-right-Icon span:hover{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(254, 163, 1);
+    color: black;
+    transform: scale(0.9);
    }
    .stories-section{
     background: url(../assets/bg.png),linear-gradient(0.00deg, rgba(254, 163, 1, 0.3),rgba(255, 255, 255, 0.3) 100%);
